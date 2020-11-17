@@ -1,5 +1,5 @@
 # Hello there 👋
-I am leaner
+Team We love Phuthra by P'Choke
 
 <!--
 **geeeeeee338/geeeeeee338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
