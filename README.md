@@ -1,7 +1,4 @@
-# Hello there 👋
-Team We love Phuthra by P'Choke
 
-สวัสดีขร้ะ หนู่วชื่อจีขร้ะ
 <!--
 **geeeeeee338/geeeeeee338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
